@@ -143,7 +143,7 @@ source.
     $ wget -P /tmp https://github.com/apache/mynewt-newt/archive/mynewt_1_8_0_tag.tar.gz
     $ tar -xzf /tmp/mynewt_1_8_0_tag.tar.gz
 
-3. Run the build.sh to build the newt tool.
+3. Open msys as administrator (not the app shortcut, the original file). Run the build.sh to build the newt tool.
 
    .. code-block:: console
 
